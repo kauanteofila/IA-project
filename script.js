@@ -28,7 +28,12 @@ const perguntas = [
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"afirmacao"
+                afirmacao:[
+                 
+                    "Sentiu mais facilidade para entender o conteúdo e responder o exercício"
+
+
+                ]
             }
         ]
     },
@@ -37,7 +42,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:"afirmacao"
+                afirmacao:[
+
+
+                    "A inteligencia artificial hoje em dia ajuda muito em tarefas de casa, mas tambem deixa as pessoas leigas, pois deixam de pensar com a mente"
+                ]
             },
             {
                 texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
